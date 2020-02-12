@@ -26,4 +26,3 @@ ban <id | mention> <reason>
 clear <amount>
 kick <id | mention> <reason>
 report <id | mention> <reason>
-
